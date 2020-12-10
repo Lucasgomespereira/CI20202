@@ -1,3 +1,4 @@
+![CI](https://github.com/Lucasgomespereira/CI20202/workflows/CI/badge.svg?branch=master)
 # Projeto Github Actions
 
 Esse projeto tem o objetivo de ensinar Continous Integration para a turma de Engenharia de Software II da Unijuazeiro
